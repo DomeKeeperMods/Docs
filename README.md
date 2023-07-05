@@ -8,3 +8,9 @@ You can find the [Wiki](https://github.com/DomeKeeperMods/Docs/wiki) in the top 
 
 ### **❗ Important**
 If you're contemplating modding Dome Keeper, we strongly recommend visiting the [Getting Started](https://github.com/DomeKeeperMods/Docs/wiki/Getting-Started) section first. It will guide you on how to decompile the game and educate you about the rules that must be adhered to for legally doing so.
+
+
+### Community
+We are looking forward to chat with you in the `#modding` channel of our **Discord Server**!
+
+![Discord Banner 2](https://discordapp.com/api/guilds/788519597556891678/widget.png?style=banner2)
