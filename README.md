@@ -13,4 +13,4 @@ If you're contemplating modding Dome Keeper, we strongly recommend visiting the 
 ### Community
 We are looking forward to chat with you in the `#modding` channel of our **Discord Server**!
 
-![Discord Banner 2](https://discordapp.com/api/guilds/788519597556891678/widget.png?style=banner2)
+<a href="https://discord.gg/AxYpX7AaFP" target="_blank">![Discord Banner 2](https://discordapp.com/api/guilds/788519597556891678/widget.png?style=banner2)</a>
